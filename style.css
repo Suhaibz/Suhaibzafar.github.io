@@ -1,0 +1,12 @@
+body {
+    background-color: black
+  }
+
+  img {
+      width: 75%
+      display: block;
+      margin: auto;
+}
+.subHeadings {
+text-align: center;
+}
